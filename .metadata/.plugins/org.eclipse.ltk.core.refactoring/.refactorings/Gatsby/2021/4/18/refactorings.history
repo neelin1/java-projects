@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Generate&apos; to &apos;BookTester&apos;&#x0A;- Original project: &apos;Gatsby&apos;&#x0A;- Original element: &apos;Generate&apos;&#x0A;- Renamed element: &apos;BookTester&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Generate&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Generate.java[Generate" matchStrategy="1" name="BookTester" qualified="false" references="true" similarDeclarations="false" stamp="1619455141003" textual="false" version="1.0"/>
+</session>
